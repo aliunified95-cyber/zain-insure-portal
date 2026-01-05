@@ -1,0 +1,5 @@
+{
+  "name": "Zain Insure Portal",
+  "description": "An internal portal for insurance agents to generate quick quotes, manage policies, and handle employee referrals.",
+  "requestFramePermissions": []
+}
